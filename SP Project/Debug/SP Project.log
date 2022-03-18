@@ -1,0 +1,14 @@
+﻿  SP Project.cpp
+D:\SP Project\SP Project\SP Project.cpp(14,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\SP Project\SP Project\SP Project.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\SP Project\SP Project\SP Project.cpp(117,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\SP Project\SP Project\SP Project.cpp(117,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SP Project.vcxproj -> D:\SP Project\SP Project\Debug\SP Project.exe
